@@ -1,0 +1,16 @@
+{
+  "name": "bikeme",
+  "version": "0.0.0",
+  "description": "scrape dublinbikes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+	"async": "0.1.x",
+	"xml2js": "0.2.*"
+  }
+}
